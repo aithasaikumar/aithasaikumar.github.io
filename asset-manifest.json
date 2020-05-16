@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aithasaikumar/aithasaikumar.github.io/static/css/main.29611b34.chunk.css",
+    "main.js": "/aithasaikumar/aithasaikumar.github.io/static/js/main.377f66c2.chunk.js",
+    "main.js.map": "/aithasaikumar/aithasaikumar.github.io/static/js/main.377f66c2.chunk.js.map",
+    "runtime-main.js": "/aithasaikumar/aithasaikumar.github.io/static/js/runtime-main.fa4de01d.js",
+    "runtime-main.js.map": "/aithasaikumar/aithasaikumar.github.io/static/js/runtime-main.fa4de01d.js.map",
+    "static/js/2.8d7fa0ab.chunk.js": "/aithasaikumar/aithasaikumar.github.io/static/js/2.8d7fa0ab.chunk.js",
+    "static/js/2.8d7fa0ab.chunk.js.map": "/aithasaikumar/aithasaikumar.github.io/static/js/2.8d7fa0ab.chunk.js.map",
+    "index.html": "/aithasaikumar/aithasaikumar.github.io/index.html",
+    "precache-manifest.882b0146260753fc3ff81e11850fad2e.js": "/aithasaikumar/aithasaikumar.github.io/precache-manifest.882b0146260753fc3ff81e11850fad2e.js",
+    "service-worker.js": "/aithasaikumar/aithasaikumar.github.io/service-worker.js",
+    "static/css/main.29611b34.chunk.css.map": "/aithasaikumar/aithasaikumar.github.io/static/css/main.29611b34.chunk.css.map",
+    "static/js/2.8d7fa0ab.chunk.js.LICENSE.txt": "/aithasaikumar/aithasaikumar.github.io/static/js/2.8d7fa0ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa4de01d.js",
+    "static/js/2.8d7fa0ab.chunk.js",
+    "static/css/main.29611b34.chunk.css",
+    "static/js/main.377f66c2.chunk.js"
+  ]
+}
